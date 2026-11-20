@@ -23,26 +23,13 @@ Seu hub de eventos de tecnologia! Este projeto foi construído com React e tem c
 
 ## 🛠️ Como rodar o projeto
 
-1. Clone o repositório:
+1. Deploy:
 
-```bash
-git clone https://github.com/seu-usuario/tecboard.git
-cd tecboard
+```
+https://tecboard-nine-nu.vercel.app/
 ```
 
-2. Instale as dependências:
-
-```bash
-npm install
-```
-
-3. Rode o projeto localmente:
-
-```bash
-npm run dev
-```
-
-4. Acesse no navegador:
+3. Acesse no navegador:
 
 ```
 http://localhost:5173
@@ -69,10 +56,4 @@ Esse projeto foi desenvolvido com fins educacionais para praticar:
 - Manipulação de formulários e dados.
 - Estilização com CSS.
 - Uso de props e renderização condicional.
-
-Ideal para quem quer dar os primeiros passos em React criando algo visual, interativo e útil.
-
-Se quiser adicionar deploy com Vercel, persistência com LocalStorage ou backend com Firebase, este projeto é uma ótima base para evoluir!
-
-Vida longa e próspera 🖖
 
